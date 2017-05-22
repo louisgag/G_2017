@@ -1,5 +1,5 @@
-# G_2017
-MBDyn - Friction in joints
+# G_2017 
+## MBDyn - Friction in joints
 Friction is important in developing real world physical modules and simulations.  </br>
 MBDyn is a multibody dynamics software with which you can create a module with initial conditions and its behaviour in certain physical conditions</br>
 I would be working on improving existing friction model and implementing it in joints of the mechanical systems of 2 and 3 dimensions, this will include addition of frictional force in the right direction and hence changes in motion and trajectory are expected</br>
